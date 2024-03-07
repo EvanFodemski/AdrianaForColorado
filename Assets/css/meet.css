@@ -377,7 +377,111 @@ body {
       line-height: 40px;
     }
   }
-  
+
+  /* ------------Issues Body------------------- */
+
+  .issueswriting{
+    margin-bottom: 150px;
+  }
+
+  .theissuestitle{
+    font-size: 80px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+  .issptitle{
+    margin-left: 5%;
+    color: #B62A2E;
+    text-decoration: underline;
+  }
+
+
+
+  .issuesreal{
+    font-size: 30px;
+    font-weight: 500;
+    max-width: 50%;
+    margin-left: 2rem;
+    margin-bottom: 30px;
+  }
+
+  .issuesimg1{
+    max-width: 40%;
+    max-height: 40%;
+    float: right;
+    margin-top: 70px;
+    margin-right: 2rem;
+    
+  }
+
+
+
+  .issptitle2{
+    color: #B62A2E;
+    text-decoration: underline;
+    margin-top: 130px;
+    margin-left: 55%;
+  }
+  .no4title{
+    color: #B62A2E;
+    text-decoration: underline;
+    margin-top: 50px;
+    margin-left: 55%;
+  }
+
+  .issuesreal2{
+    font-size: 30px;
+    font-weight: 500;
+    max-width: 50%;
+    margin-left: 50%;
+  }
+
+  .no4real{
+    font-size: 30px;
+    font-weight: 500;
+    max-width: 50%;
+    margin-left: 50%;
+  }
+
+  .issuesimg2{
+    max-width: 40%;
+    max-height: 40%;
+    margin-top: 60px;
+    float: left;
+    margin-left: 2rem;
+  }
+  @media screen and (max-width: 600px) {
+    .issuesimg1{
+      display: none;
+    }
+    .issuesimg2{
+      display: none;
+    }
+    .issuesreal{
+      margin-left: 5%;
+      max-width: 100%;
+    }
+    .issuesreal2{
+      margin-left: 5%;
+      max-width: 100%;
+    }
+    .issptitle2{
+      margin-left: 5%;
+      margin-top: 20px;
+    }
+    .no4title{
+      margin-left: 5%;
+      margin-top: 20px;
+    
+    }
+    .no4real{
+      margin-left: 5%;
+      max-width: 100%;
+    }
+  }
   /* -----------Footer Styling------------------ */
   
   footer {
