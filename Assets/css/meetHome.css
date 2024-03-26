@@ -213,39 +213,56 @@
 .meethomeimg1{
   width: 35%;
   height: 35%;
-  float: right;
-  margin-right: 100px;
+  margin-left: 100px;
+
+}
+
+.meethomeimg8{
+  width: 35%;
+  height: 35%;
 }
 
 .meet2head{
   color: #B62A2E;
   text-decoration: underline;
-  margin-top: 25%;
+  margin-top: 5%;
   margin-left: 55%;
+}
+
+.stacked1{
+  width: 35%;
+  height: 35%;
+  margin-left: 100px;
+  margin-top: -1050px;
+  float: left;
 
 }
+
+.stacked2{
+  width: 35%;
+  height: 35%;
+  margin-left: 100px;
+
+  margin-top: -600px;
+  float: left;
+}
+
 
 .meetpar22{
   font-size: 28px;
   font-weight: 400;
   max-width: 50%;
   margin-left: 50%;
-  margin-bottom: 30px;
-  float: right;
-}
+  float: right
 
-.meethomeimg2{
-  width: 40%;
-  height: 40%;
-  float: left;
-  margin-left: 100px;
-  margin-top: -700px;
 }
 
 .meet3head{
   margin-left: 5%;
     color: #B62A2E;
     text-decoration: underline;
+    margin-top: 300px;
+
 }
 
 .meetpar33{
@@ -306,10 +323,10 @@
 }
 
 .meethomeimg5{
-  width: 35%;
-  height: 35%;
+  width: 45%;
+  height: 45%;
   float: right;
-  margin-right: 100px;
+  margin-right: 50px;
   margin-top: -100px;
 }
 
