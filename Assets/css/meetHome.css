@@ -337,7 +337,7 @@ body {
   height: 43%;
   width: 43%;
   margin-left: 60px;
-  margin-top: -30%;
+  margin-top: -40%;
 }
 
 .z6p1 {
@@ -345,6 +345,7 @@ body {
   font-size: 26px;
   width: 40%;
   margin-left: 5%;
+
 }
 
 .BacktoCent {
@@ -358,7 +359,7 @@ body {
   height: 40%;
   width: 40%;
   margin-left: 50%;
-  margin-top: -34%;
+  margin-top: -37%;
 }
 
 @media screen and (max-width: 768px) {
@@ -431,6 +432,79 @@ body {
     max-width: 95%;
   
   }
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .z2imgs{
+    margin-top: -50%;
+  }
+
+  .topleft2z{
+    margin-bottom: -10%;
+  }
+
+  .depchild{
+    margin-top: 350px;
+  }
+
+  .z6{
+    margin-top: -40%;
+  }
+
+  .z7{
+    margin-top: -45%;
+  }
+
+  .z8{
+    margin-top: -50%;
+  }
+
+  .z9{
+    margin-top: -50%; 
+}
+
+.earlylifepar,
+  .z2p1,
+  .z2p2,
+  .z3p1,
+  .z4p1,
+  .z5p1,
+  .z6p1 {
+    font-size: 18px;
+    
+  }
+
+  .depchild{
+    margin-top: 180px;
+  }
+
+}
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+	.marriedarmy,
+  .BacktoCent {
+    margin-top: -7%;
+  
+  }
+
+  .z9{
+    margin-top: -50%;
+
+  }
+
+  .z8{
+    margin-top: -60%;
+
+  }
+
+  .z7{
+    margin-top: -60%;
+
+  
+  }
+
+
+
 }
 
 
